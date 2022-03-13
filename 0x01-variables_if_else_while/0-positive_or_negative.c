@@ -3,9 +3,7 @@
 #include <stdio.h>
 
 /*
- * main - assigns a random number to int n everytime
- * it executes, and prints it
- *
+ * main - tells if a number is positive, nagative, or zero
  * Return: Always 0 (Success)
  */
 int main(void)
