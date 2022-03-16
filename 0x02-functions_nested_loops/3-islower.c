@@ -3,10 +3,12 @@
 /**
  * _islower - checks for lowercsse letters
  *
+ * @x: x is an ascii character
+ *
  * Return: Always 0 (Success)
  */
 
-int _islower(int c)
+int _islower(int x)
 {
 	if (x >= 'a' && x <= 'z')
 	{
